@@ -1,0 +1,15 @@
+Package: neocities
+Title: Neocities.org API wrapper
+Version: 0.1
+Author: Sean Kross <smk240@gmail.com>
+Maintainer: Sean Kross <smk240@gmail.com>
+Description: A wrapper for the neocities.org API.
+URL: https://github.com/seankross/neocities
+Depends:
+    R (>= 3.0.2)
+Imports:
+    httr
+Suggests:
+    testthat,
+    knitr
+License: MIT + file LICENSE
