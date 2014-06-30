@@ -13,6 +13,7 @@ devtools::install_github("seankross/neocities")
 
 ```ruby
 # Sign up for an account at neocities.org
+library(neocities)
 
 # upload a file
 neocities_upload("~/Desktop/report.html")
